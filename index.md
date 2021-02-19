@@ -9,7 +9,11 @@
 <body>
     <h1>Discover hidden places in the world around you</h1>
     <a href="#" class="download">Download Excursion</a>
-    <p><img src="video/excursion.mp4"></p>
+    <p>
+        <video width="240" height="320">
+            <source src="video/excursion.mp4" type="video/mp4">
+        </video>
+    </p>
     <h2>Your personal travel guide</h2>
     <p>Excursion remembers places you like, and recommends new points of interest around you.</p>
     <p><img src="images/camp.jpg"></p>
