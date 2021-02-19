@@ -10,7 +10,7 @@
     <h1>Discover hidden places in the world around you</h1>
     <a href="#" class="download">Download Excursion</a>
     <p>
-        <video width="240" height="320">
+        <video width="480" height="800">
             <source src="video/excursion.mp4" type="video/mp4">
         </video>
     </p>
