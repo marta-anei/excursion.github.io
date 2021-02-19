@@ -12,6 +12,8 @@
     <p>
         <video width="480" height="800" autoplay>
             <source src="video/excursion.mp4" type="video/mp4">
+            <source src="video/excursion.ogg" type="video/ogg">
+            Your browser does not support the video tag.
         </video>
     </p>
     <h2>Your personal travel guide</h2>
