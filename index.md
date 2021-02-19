@@ -1,16 +1,26 @@
 <html lang="en">
-  <head>
+<head>
     <link rel="stylesheet" type="text/css" href="style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Excursions</title>
-  </head>
+</head>
   
-  <body>
-    <!-- Header -->
-    <header>
-      <h1>Discover hidden places in the world around you</h1>
-      <a href="#" class="download">Download Excursion</a>
-    </header>
-  </body>  
+<body>
+<!-- Header -->
+<header>
+    <h1>Discover hidden places in the world around you</h1>
+    <a href="#" class="download">Download Excursion</a>
+</header>
+    
+<!-- Mobile Content -->
+<div class="mobile">
+    <p>
+        <img src="images/phone.png">
+    </p>
+    <p>
+        <img src="images/camp.jpg">
+    </p>
+</div>
+</body>  
 </html>
