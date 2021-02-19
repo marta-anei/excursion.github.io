@@ -11,8 +11,7 @@
     <a href="#" class="download">Download Excursion</a>
     <p>
         <video width="480" height="800" autoplay>
-            <source src="video/excursion.mp4" type="video/mp4">
-            <source src="video/excursion.ogg" type="video/ogg">
+            <source src="video/excursion.mp4" type="video/mp4" />
             Your browser does not support the video tag.
         </video>
     </p>
