@@ -7,20 +7,15 @@
 </head>
   
 <body>
-<!-- Header -->
-<header>
     <h1>Discover hidden places in the world around you</h1>
     <a href="#" class="download">Download Excursion</a>
-</header>
-    
-<!-- Mobile Content -->
-<div class="mobile">
-    <p>
-        <img src="images/phone.png">
-    </p>
-    <p>
-        <img src="images/camp.jpg">
-    </p>
-</div>
+    <p><img src="video/excursion.mp4"></p>
+    <h2>Your personal travel guide</h2>
+    <p>Excursion remembers places you like, and recommends new points of interest around you.</p>
+    <p><img src="images/camp.jpg"></p>
+    <p><img src="images/phone.png"></p>
+    <h2>Comming Soon for iPhone and Android</h2>
+    <a href="#" class="download">Download Excursion</a>
+    <p class="footer">&copy; Excursion</p>
 </body>  
 </html>
